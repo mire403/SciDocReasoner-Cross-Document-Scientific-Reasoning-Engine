@@ -1052,18 +1052,22 @@ curl http://localhost:8000/
 
 ---
 
-## 📮 联系方式
+## 👤 作者 (Author)
 
-- 问题反馈：[GitHub Issues](https://github.com/yourusername/scidoc-reasoner/issues)
-- 功能建议：[GitHub Discussions](https://github.com/yourusername/scidoc-reasoner/discussions)
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
 
 ---
 
 <div align="center">
 
-**⭐ 如果这个项目对你有帮助，请给个 Star！⭐**
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-Made with ❤️ by the SciDocReasoner Team
+<sub>Made by Haoze Zheng. 2026 VoiceDataExplorer.</sub>
 
 </div>
+
 
