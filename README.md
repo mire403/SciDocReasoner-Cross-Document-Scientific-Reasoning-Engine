@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 SciDocReasoner — Cross-Document Scientific Reasoning Engine
+
 
 </div>
 
@@ -1069,6 +1069,7 @@ curl http://localhost:8000/
 <sub>Made by Haoze Zheng. 2026 VoiceDataExplorer.</sub>
 
 </div>
+
 
 
 
