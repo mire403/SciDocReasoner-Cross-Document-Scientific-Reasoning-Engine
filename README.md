@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🧠 SciDocReasoner — Cross-Document Scientific Reasoning Engine
+
+</div>
 
 <div align="center">
 
@@ -1062,3 +1066,4 @@ curl http://localhost:8000/
 Made with ❤️ by the SciDocReasoner Team
 
 </div>
+
